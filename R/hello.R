@@ -14,6 +14,6 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, world!")
-  print("hello github!")
+  print("hello Iself!")
+  print("hello rstudio!")
 }
